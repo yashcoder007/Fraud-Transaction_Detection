@@ -33,7 +33,7 @@
 
 ## About The Project
 
-![Screen Shot](https://ibb.co/Zmtggc0)
+![Screen Shot](download.png)
 
 The project's motivation was to detect financial credit card transaction fraud on a dataset with around 1 million transactions listed. I designed an end-to-end data pipeline for this project. 
 
@@ -58,7 +58,7 @@ Python
 * [SciPy](https://scipy.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [XGBoost](https://xgboost.readthedocs.io/en/stable/parameter.html)
-* []()
+
 
 ## Getting Started
 
