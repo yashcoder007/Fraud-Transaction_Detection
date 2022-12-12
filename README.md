@@ -127,5 +127,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007
 
 ## Authors
 
-* **Yash Trivedi** - *Data Scientist/ Machine Learning Researcher* - [Yash Trivedi](https://github.com/yashcoder007) - **
+* **Yash Trivedi** - *Data Scientist/ Machine Learning Researcher* - [Yash Trivedi](https://github.com/yashcoder007)
 
